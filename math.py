@@ -17,6 +17,10 @@ print("Hasil Perkalian {} * {} = {}".format(x,y,z3))
 z4 = x/y
 print("Hasil Pembagian {} / {} = {}".format(x,y,z4))
 
+# bagi
+z4 = x//y
+print("Hasil Pembagian {} / {} = {}".format(x,y,z4))
+
 # modulo
 z5 = x%y
 print("Hasil Modulo {} % {} = {}".format(x,y,z5))
