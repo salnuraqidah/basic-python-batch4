@@ -48,9 +48,9 @@ def absolute_value(num):
         return -num
 
 
-print(absolute_value(2))
+# print(absolute_value(2))
 
-print(absolute_value(-4))
+# print(absolute_value(-4))
 
 
 
